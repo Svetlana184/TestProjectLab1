@@ -5,7 +5,7 @@
     {
         static bool IsSimple(int x)
         {
-            bool simple = true;
+            bool simple = x>1;
             for(int i = 2; i < x; i++)
             {
                 if(x % i  == 0) simple = false; break;
