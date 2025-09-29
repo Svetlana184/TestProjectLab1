@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectLab1", "TestProjectLab1\TestProjectLab1.csproj", "{F10A134B-C9CE-4A63-A164-CBFDC844F011}"
 EndProject
@@ -13,7 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exp_4", "Exp_4\Exp_4.csproj", "{8B3C6C6B-CABF-4CCC-8D1B-49A9966DA63C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exp5", "exp5\exp5.csproj", "{DC7E8719-9A30-4F5C-8015-8B03A7F72547}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exp5", "exp5\Exp5.csproj", "{DC7E8719-9A30-4F5C-8015-8B03A7F72547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDProject", "TDDProject\TDDProject.csproj", "{C1FB1EB0-578F-450C-87EE-E57E43C29E3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{DC7E8719-9A30-4F5C-8015-8B03A7F72547}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC7E8719-9A30-4F5C-8015-8B03A7F72547}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC7E8719-9A30-4F5C-8015-8B03A7F72547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1FB1EB0-578F-450C-87EE-E57E43C29E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1FB1EB0-578F-450C-87EE-E57E43C29E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1FB1EB0-578F-450C-87EE-E57E43C29E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1FB1EB0-578F-450C-87EE-E57E43C29E3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

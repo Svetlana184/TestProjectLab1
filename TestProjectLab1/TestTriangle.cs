@@ -1,7 +1,7 @@
 ﻿namespace TestProjectLab1
 {
     [TestClass]
-    public class Test1
+    public class TestTriangle
     {
         static bool IsSimple(int x)
         {
